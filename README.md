@@ -8,7 +8,8 @@ A small, minimalist, powerful and hideable Spotify controller for rainmeter desk
 
 I made this for myself, but decided to share it because I put some work into this controller to suit my needs
 It's not perfect, but with some tinkering you can make it more optimized
-It's based on WebNowPlaying PlugIn, so it's not only for Spotify, you can use it with a Web Browser PlugIn. Keep in mind it's made with Spotify in mind though
+It's based on WebNowPlaying PlugIn, so it's not only for Spotify, you can use it with a Web Browser PlugIn. Keep in mind it's made with Spotify in mind though.
+
 I took some inspiration from different Spotify skins and their creators give them a look:
 - [Music WebNowPlaying](https://www.deviantart.com/therealturtler/art/Music-WebNowPlaying-Skin-for-Spotify-YouTube-etc-770968009) by TheRealTurtler
 - [Spotify Control](https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-Skin-v4-3-594025385) by fuckyeahlucas
