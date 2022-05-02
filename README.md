@@ -1,6 +1,7 @@
 # Spotify Tiny Controller
 By Penguido, 2022
 
+## About
 A small, minimalist, powerful and hideable Spotify controller for rainmeter desktop. It uses **WebNowPlaying** and **Chameleon** PlugIns
 
 ⚠️ Latest version of [**Spicetify**](https://github.com/khanhas/spicetify-cli) is required for this to work!
@@ -14,16 +15,7 @@ I took some inspiration from different Spotify skins and their creators give the
 - [Spotify Music Bar](https://www.deviantart.com/alpha27272/art/Rainmeter-Spotify-Music-Bar-882715768) by Alpha27272
 - [Cleartext](https://www.deviantart.com/redsaph/art/Cleartext-for-Rainmeter-519796161) by Redsaph
 
-Known issues:
-- Color schemes sometimes don't match, I tried to find a healthy middle
-- If there is a long title, sometimes next song might get stuck or behave weird, but it's fixed, though there is a slight delay still
-- Mouse scrolling controls volume, but it's a bit janky
-- Sometimes progress bar stops, but when you open Spotify, it continues. Seems to be some kind of communication problem between the app and PlugIn
-- If the controller is hidden, the minimize/maximize option is still in the context menu. Tried to make it dynamic, but got tired. ; p
-
-If the controller gets stuck, it's easy to refresh it by clicking the middle mouse button on it
-
-## Media:
+## Media
 ### Full size
 ![Full size](https://i.ibb.co/pdp8cqz/fullsize.png)
 
@@ -32,3 +24,12 @@ If the controller gets stuck, it's easy to refresh it by clicking the middle mou
 
 ### Hidden
 ![Hidden](https://i.ibb.co/dDSkHj6/hidden.png)
+
+## Known issues
+- Color schemes sometimes don't match, I tried to find a healthy middle
+- If there is a long title, sometimes next song might get stuck or behave weird, but it's fixed, though there is a slight delay still
+- Mouse scrolling controls volume, but it's a bit janky
+- Sometimes progress bar stops, but when you open Spotify, it continues. Seems to be some kind of communication problem between the app and PlugIn
+- If the controller is hidden, the minimize/maximize option is still in the context menu. Tried to make it dynamic, but got tired. ; p
+
+If the controller gets stuck, it's easy to refresh it by clicking the middle mouse button on it
