@@ -3,11 +3,9 @@ By Penguido, 2022
 Updated 2023
 
 ## About
-A small, minimalist, powerful and hideable Spotify controller for rainmeter desktop. It uses **WebNowPlaying** and **Chameleon** PlugIns
+A small, minimalist, powerful and hideable Spotify controller for rainmeter desktop. It uses [**WebNowPlaying**](https://wnp.keifufu.dev/) and [**Chameleon**](https://github.com/socks-the-fox/Chameleon/) PlugIns
 
-⚠️ Latest version of [**Spicetify**](https://github.com/khanhas/spicetify-cli) is required for this to work!
-
-Just download the latest release of Spicetify, install it and run ```spicetify backup apply``` if you don't really want anything to change.
+⚠️ [**Spicetify**](https://github.com/khanhas/spicetify-cli) is no longer required for this to work!
 
 I made this for myself, but decided to share it because I put some work into this controller to suit my needs
 It's not perfect, but with some tinkering you can make it more optimized
