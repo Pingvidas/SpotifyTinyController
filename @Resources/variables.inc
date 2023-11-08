@@ -1,5 +1,5 @@
 [Variables]
-;Almost all variables ar Dynamic - best not to change them without prior knowledge of what they do
+;Almost all variables are Dynamic - best not to change them without prior knowledge of what they do
 
 ;Background size and pos
 Height=60
@@ -43,4 +43,3 @@ animationSpeed=20
 marqueeBeginWait=2000
 marqueeEndWait=2000
 marquee1=0
-prevSong=N/A
