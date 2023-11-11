@@ -65,4 +65,3 @@ Media used:
 - [Fixed] Titles with special characters crash Rainmeter
 - [Seems to be fixed] Sometimes progress bar stops, but when you open Spotify, it continues. Seems to be some kind of communication problem between the app and PlugIn
 - [Kinda fixed] Color schemes sometimes don't match, I tried to find a healthy middle
- If the controller gets stuck, it's easy to refresh it by clicking the middle mouse button on it
